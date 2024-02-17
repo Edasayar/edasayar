@@ -1,7 +1,7 @@
 <h2 align="center">  Hello!👋, I'm Eda</h2>
 <a href="https://imgbb.com/"><img align="right" src="https://i.ibb.co/wrP5WHc/2-A-developer-small.gif" alt="2-A-developer-small" border="0" /></a>
 <h4 align="center">I am a .Net developer in Turkey.<br>I graduated from Karadeniz Technical University, Department of Mathematics.<br> I worked as a teacher for a while.<br> Later, I attended the BilgeAdam Boost FullStack Software Developer <br>Training program to complement <br>my interest in software with training.<br><br></h4> 
-<button class="button" onclick="window.open('https://www.linkedin.com/feed/update/urn:li:activity:7136468351299600384/', '_blank')">HRMS Project Link</button>
+<h4>Human Resources Management System Project :</h4> https://www.linkedin.com/feed/update/urn:li:activity:7136468351299600384/
 <h4 align="center">The skills I gained from the training I received are as follows:<br>ASP.NET • ASP.NET MVC • ASP.NET Web API • .NET Core • Entity Framework • .NET Core • SOLID Design Principles • JavaScript • React • CSS • HTML5 • RabbitMQ • Microsoft SQL Server • Azure • DevOps.</h4>
 
 
