@@ -3,7 +3,7 @@
 <h4 align="center">I am a .Net developer in Turkey.<br>I graduated from Karadeniz Technical University, Department of Mathematics.<br> I worked as a teacher for a while.<br> Later, I attended the BilgeAdam Boost FullStack Software Developer <br>Training program to complement <br>my interest in software with training.<br><br>The skills I gained from the training I received are as follows:<br>ASP.NET, ASP.NET MVC, ASP.NET Web API, .NET Core, Entity Framework, <br>.NET Core, SOLID Design Principles, JavaScript, React, CSS, HTML5, <br>RabbitMQ, Microsoft SQL Server, Azure, DevOps.</h4> 
 
 
-## 🌐 Socials:
+## 🌐 Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eda-sayar55/) 
 
 # 💻 Tech Stack:
